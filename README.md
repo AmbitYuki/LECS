@@ -13,7 +13,7 @@
 
 <h3>🔬 Bridging Semantic Understanding and 3D Reconstruction in Interventional Cardiology</h3>
 
-[**📖 Paper**](https://anonymous.4open.science/r/continuum_control-3DDC) | [**🎥 Demo**](#demo) | [**📊 Dataset**](#dataset) | [**🤝 Contributing**](#contributing)
+[**📖 Code**]([https://anonymous.4open.science/r/continuum_control-3DDC](https://anonymous.4open.science/status/LECS-7EA7)) | [**🎥 Demo**](#demo) | [**📊 Dataset**](#dataset) | [**🤝 Contributing**](#contributing)
 
 </div>
 
@@ -169,7 +169,7 @@ python DualDeviceNav_train.py \
 
 Our model is trained on multi-institutional cardiovascular datasets. For access to the training data:
 
-1. **Public Dataset**: Available at [Dataset Link](https://anonymous.4open.science/dataset)
+1. **Public Dataset**: Available at [Dataset Link](https://anonymous.4open.science/status/LECS-7EA7/dataset)
 2. **Clinical Dataset**: Request access through institutional review
 
 ## 🛠️ Environment Setup
