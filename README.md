@@ -1,4 +1,4 @@
-# 🫀 Language-Enhanced Cross-Dimensional Synthesis (LECS)
+#  Language-Enhanced Cross-Dimensional Synthesis (LECS)
 ### *From 2D Observations to 3D Medical Scene Reconstruction for Real-Time Interventional Navigation*
 
 <div align="center">
