@@ -1,5 +1,6 @@
 #  Language-Enhanced Cross-Dimensional Synthesis (LECS)
-### *From 2D Observations to 3D Medical Scene Reconstruction for Real-Time Interventional Navigation*
+### *From 2D Observations to 3D Medical Scene Reconstruction for Real-Time Interventional Navigation!!!*
+### *A Hierarchical Information Policy Fusion Framework with Multimodal Large Language Models for Autonomous Guidewire Navigation in Endovascular Procedures*
 
 <div align="center">
 
