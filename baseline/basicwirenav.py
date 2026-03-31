@@ -2,6 +2,7 @@ import math
 import eve
 
 
+
 class BasicWireNav(eve.intervention.MonoPlaneStatic):
     def __init__(
         self,
