@@ -10,6 +10,7 @@ if __name__ == "__main__":
     )
     device = eve.intervention.device.JShaped()
 
+    
     simulation = eve.intervention.simulation.SofaBeamAdapter()
 
     fluoroscopy = eve.intervention.fluoroscopy.TrackingOnly(
