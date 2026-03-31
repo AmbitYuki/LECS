@@ -10,6 +10,7 @@ from eve.util.userinput.visumanipulator import VisuManipulator
 from eve.util.userinput.instrumentaction import JoyOneDevice, KeyboardOneDevice
 from eve.visualisation import SofaPygame
 
+
 FOLDER = "/Users/lennartkarstensen/stacie/eve_training/recorded_interventions/eve_paper/neurovascular/aorta/gw_only"
 RECORD = False
 
