@@ -9,7 +9,6 @@ from eve.visualisation import SofaPygame
 intervention = ArchVariety()
 visu = SofaPygame(intervention)
 
-
 n_steps = 0
 r_cum = 0.0
 
